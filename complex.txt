@@ -1,0 +1,7 @@
+(defun sqrt (n) (** n 0.5))
+(sqrt (4))
+(sqrt (-1))
+(setf i 0 1j)
+(+ i 0)
+(* i 1)
+(** i 2)
